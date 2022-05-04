@@ -1,0 +1,11 @@
+{
+  "name": "freecamalerts",
+  "version": "1.0.0",
+  "description": "Alerts for specific freecam methods",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Juracich",
+  "license": "ISC"
+}
